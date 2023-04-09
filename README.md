@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheR3alZ3r0
 - 👀 I’m interested in [programming,gaming,anime].
-- 🌱 I’m currently learning [C++/C].
+- 🌱 I’m currently learning [C++/C, Java].
 - 💞️ I’m looking to collaborate on ["some cool shit"].
 - 📫 How to reach me ["please don't"].
 
